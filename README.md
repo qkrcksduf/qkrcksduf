@@ -6,10 +6,8 @@ Server Backend Developer
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrcksduf&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrcksduf&layout=compact)  
-![trophy](https://github-profile-trophy.vercel.app/?username=qkrcksduf&theme=onedark)  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=qkrcksduf.qkrcksduf)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrcksduf&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrcksduf&layout=compact)  
+![trophy](https://github-profile-trophy.vercel.app/?username=qkrcksduf&theme=onedark) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qkrcksduf.qkrcksduf)
 
 ---
 
