@@ -5,12 +5,14 @@
 ---
 
 ## 📬 Contact
-- ✉️ [email protected]  
+- ✉️ 1qkrcksduf1@naver.com
 - 📱 010-6625-1025  
 
 ## 🔗 Links
-- 💻 [깃허브: quotation-api-server](https://github.com/wisoft-graduate/quotation-api-server)  
-- 💻 [깃허브: qkrcksduf](https://github.com/qkrcksduf)  
+- 💻 [깃허브: quotation-api-server](https://github.com/wisoft-graduate/quotation-api-server)
+- 💻 [깃허브: app-teck-api-server](https://github.com/sideproject-qa/social-api)
+- 💻 [깃허브: qkrcksduf](https://github.com/qkrcksduf)
+- 💻 [블로그: chanyeol](https://velog.io/@chanyeol/posts)
 
 ---
 
@@ -29,7 +31,7 @@
 ## 🏢 Experience
 
 **㈜에스아이에이 (SIA)** — 국가안보사업부, Backend Developer  
-*2021.08.02 – Present (4년, 정규직)*  
+*2021.08.02 – 2025.01.31 (3년 6개월, 정규직)*  
 - 사내 핵심 플랫폼(“O-Vision”) 개발  
 - MSA 시스템 아키텍처 전환 프로젝트 주도  
 - 대용량 위성 영상 데이터 처리 시스템 설계 및 구현  
@@ -42,7 +44,7 @@
 - **Frameworks:** Spring Boot · Armeria · gRPC  
 - **Architecture:** Microservices · Hexagonal Architecture  
 - **DB:** PostgreSQL · MySQL  
-- **DevOps:** Docker · Docker Swarm · GitHub Actions  
+- **DevOps:** Docker · Docker Swarm · GitHub Actions · AWS · Kubernetes
 - **Testing:** Kotest · Testcontainers  
 
 ---
