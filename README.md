@@ -8,11 +8,11 @@
 - ✉️ 1qkrcksduf1@naver.com
 - 📱 010-6625-1025  
 
-## 🔗 Links
-- 💻 [깃허브: quotation-api-server](https://github.com/wisoft-graduate/quotation-api-server)
-- 💻 [깃허브: app-teck-api-server](https://github.com/sideproject-qa/social-api)
-- 💻 [깃허브: qkrcksduf](https://github.com/qkrcksduf)
-- 💻 [블로그: chanyeol](https://velog.io/@chanyeol/posts)
+## Links
+- 🔗 [quotation-api-server](https://github.com/wisoft-graduate/quotation-api-server)
+- 🔗 [app-teck-api-server](https://github.com/…/app-teck-api-server)
+- 🔗 [qkrcksduf (this profile)](https://github.com/qkrcksduf)
+- 📝 [Velog 블로그](https://velog.io/@chanyeol)
 
 ---
 
@@ -48,3 +48,5 @@
 - **Testing:** Kotest · Testcontainers  
 
 ---
+
+⭐️ If you like my work, give me a star!
