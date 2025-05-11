@@ -15,7 +15,7 @@ Server Backend Developer
 
 ## 🔗 Links
 - 🔗 [quotation-api-server](https://github.com/wisoft-graduate/quotation-api-server)  
-- 🔗 [app-teck-api-server](https://github.com/qkrcksduf/app-teck-api-server)  
+- 🔗 [app-teck-api-server](https://github.com/sideproject-qa/social-api)
 - 🔗 [Profile Repo: qkrcksduf](https://github.com/qkrcksduf)  
 - 📝 [Blog: Velog @chanyeol](https://velog.io/@chanyeol)  
 
@@ -66,7 +66,7 @@ Server Backend Developer
 ---
 
 ## 🧩 Fun Fact
-출근길에 항상 새로 들은 팟캐스트를 듣습니다.
+- 🏋️‍♂️ 운동을 좋아해 주 3회 헬스장에서 웨이트 트레이닝을 하고, 가끔 조깅도 즐깁니다.
 
 ---
 
